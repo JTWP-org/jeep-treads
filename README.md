@@ -14,9 +14,10 @@ here is the default jeep tread
 
 <p>
 download sbsar 
-<img src="image3.png">
+<img src="image5.png">
 import into substance painter as generator use this file as the normal on the jeep then uuse the bar to change the value 
-
+  <br><hr>
+<img src="image3.png">
 <img src="image1.png">
 <img src="image2.png">
 </p >
